@@ -1,0 +1,6 @@
+framework module Pods_Article_API_19_08_2017 {
+  umbrella header "Pods-Article-API-19-08-2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
