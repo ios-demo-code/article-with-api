@@ -8,5 +8,5 @@ target 'Article-API-19-08-2017' do
   # Pods for Article-API-19-08-2017
   pod 'ObjectMapper'
   pod 'Kingfisher' 
-
+  pod 'Alamofire'
 end
